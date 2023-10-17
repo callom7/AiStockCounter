@@ -1,0 +1,8 @@
+INFO:root:Some description or label315.7ms
+INFO:root:0: 480x640 1 ball, 1 can, 318.8ms
+INFO:root:0: 480x640 2 phones,  432.1
+INFO:root:0: 480x640 1 phone,  135.2
+INFO:root:0: 480x640 1 phone,  140.0
+INFO:root:0: 480x640 1 phone,  124.0
+INFO:root:0: 480x640 2 phones,  131.0
+INFO:root:0: 480x640 1 can, 2 phones,  121.0
